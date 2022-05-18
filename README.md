@@ -11,6 +11,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsol)](https://github.com/edsol/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edsol)](https://git.io/streak-stats)
+
 <!--
 **Edsol/edsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
