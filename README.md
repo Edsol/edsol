@@ -1,9 +1,15 @@
+<p align="right">
+  <a href="https://github.com/Edsol/edsol/blob/main/README.md">
+  <img src="https://img.shields.io/badge/italian-version-green"/>
+  </a>
+</p>
 <div align='center'>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="300" width="" />  
 </div>
 
 ## <div align="center">Hey 👋, I'm Edoardo Soloperto!</div>  
-  
+
+https://img.shields.io/badge/italian-version-green
 
 <div align="center">
 <a href="https://github.com/edsol" target="_blank">
@@ -83,35 +89,16 @@ I’m a full-stack developer who has turned his passion into a full-time career,
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsol&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsol&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
+## Github Stats
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsol&show_icons=true&locale=en&layout=compact" alt="edsol" />
+</p>
+ 
 <br/>  
 
-  
 
 <br/>  
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=edsol&&style=flat-square" align="right" />
 </div>  
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsol&show_icons=true&locale=en" alt="edsol" /></p>
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
