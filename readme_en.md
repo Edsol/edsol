@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://github.com/Edsol/edsol/blob/main/README.md">
-  <img src="https://img.shields.io/badge/english-version-green"/>
+  <img src="https://img.shields.io/badge/italian-version-green"/>
   </a>
 </p>
 <div align='center'>
