@@ -9,8 +9,6 @@
 
 ## <div align="center">Hey 👋, I'm Edoardo Soloperto!</div>  
 
-https://img.shields.io/badge/italian-version-green
-
 <div align="center">
 <a href="https://github.com/edsol" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
