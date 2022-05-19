@@ -88,10 +88,15 @@ I’m a full-stack developer who has turned his passion into a full-time career,
 
 
 ## Github Stats
-<p>
-  <img align="center" src="https://api.githubtrends.io/user/svg/Edsol/langs?time_range=one_year&theme=classic&locale=it"/>
-  <img align="center" src="https://api.githubtrends.io/user/svg/Edsol/repos?time_range=one_year&theme=classic&locale=it"/>
-</p>
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edsol&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edsol&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edsol&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edsol&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edsol&theme=github&utcOffset=8)
+
+</div>
  
 <br/>  
 
