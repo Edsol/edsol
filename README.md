@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/__edsol" target="blank"><img src="https://img.shields.io/twitter/follow/__edsol?logo=twitter&style=for-the-badge" alt="__edsol" /></a> </p>
 
-- 🔭 I’m currently working on [ClickUp VSCode extensions](https://github.com/Edsol/clickup-vscode-extension)
+- 🔭 I’m currently working on [ClickUp VSCode extension](https://github.com/Edsol/clickup-vscode-extension)
 
 - 🌱 I’m currently learning **Flutter,**
 
