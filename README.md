@@ -85,16 +85,23 @@ Sono un full-stack developer che ha trasformato la sua passione in un lavoro a t
 
 
 ## Statistiche Github
-<p>
-  <img align="center" src="https://api.githubtrends.io/user/svg/Edsol/langs?time_range=one_year&theme=classic&locale=it"/>
-  <img align="center" src="https://api.githubtrends.io/user/svg/Edsol/repos?time_range=one_year&theme=classic&locale=it"/>
-</p>
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edsol&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edsol&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edsol&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edsol&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edsol&theme=github&utcOffset=8)
+
+</div>
+
+
  
 <br/>  
-
 
 <br/>  
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=edsol&&style=flat-square&locale=it" align="right" />
-</div>  
+</div>
+<img src="https://camo.githubusercontent.com/7998890254268d8ed476c9f66d3fa59d21dd354d2090036083c82af4cda2a0eb/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667"/>
