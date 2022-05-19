@@ -89,7 +89,8 @@ I’m a full-stack developer who has turned his passion into a full-time career,
 
 ## Github Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsol&show_icons=true&locale=en&layout=compact" alt="edsol" />
+  <img align="center" src="https://api.githubtrends.io/user/svg/Edsol/langs?time_range=one_year&theme=classic&locale=it"/>
+  <img align="center" src="https://api.githubtrends.io/user/svg/Edsol/repos?time_range=one_year&theme=classic&locale=it"/>
 </p>
  
 <br/>  
