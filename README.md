@@ -1,15 +1,13 @@
 <p align="right">
   <a href="https://github.com/Edsol/edsol/blob/main/README.md">
-  <img src="https://img.shields.io/badge/italian-version-green"/>
+  <img src="https://img.shields.io/badge/english-version-green"/>
   </a>
 </p>
 <div align='center'>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="300" width="" />  
 </div>
 
-## <div align="center">Hey 👋, I'm Edoardo Soloperto!</div>  
-
-https://img.shields.io/badge/italian-version-green
+## <div align="center">Ciao 👋, sono Edoardo Soloperto!</div>  
 
 <div align="center">
 <a href="https://github.com/edsol" target="_blank">
@@ -29,29 +27,26 @@ https://img.shields.io/badge/italian-version-green
 
 ***
 <br>
-I’m a full-stack developer who has turned his passion into a full-time career, I enjoy learning new technologies and understanding how things work.  
+Sono un full-stack developer che ha trasformato la sua passione in un lavoro a tempo pieno, mi piace imparare nuove tecnologie e capire come funzionano le cose. 
   
 
 <br/>  
 
 
 ## Rapidfire  
-- 🔭  I’m currently working on [ClickUp VSCode extension](https://github.com/Edsol/clickup-vscode-extension)  
+- 🔭  Attualmente sto lavorando a [ClickUp VSCode extension](https://github.com/Edsol/clickup-vscode-extension)  
   
 
-- 🌱 I’m currently learning **Flutter** and **Svelte**  
+- 🌱 Attualmente sto imparando **Flutter** e **Svelte**  
   
 
-- ❓ Ask me about anything related to LAMP stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ❓ Chiedetemi informazioni su tutto ciò che riguarda lo stack LAMP e le tecnologie correlate
   
 
 <br/>  
 
 
-## Languages and Tools  
+## Linguaggi e Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -89,9 +84,9 @@ I’m a full-stack developer who has turned his passion into a full-time career,
 <br/>  
 
 
-## Github Stats
+## Statistiche Github
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsol&show_icons=true&locale=en&layout=compact" alt="edsol" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edsol&show_icons=true&locale=it&layout=compact" alt="edsol" />
 </p>
  
 <br/>  
@@ -100,5 +95,5 @@ I’m a full-stack developer who has turned his passion into a full-time career,
 <br/>  
 
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=edsol&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=edsol&&style=flat-square&locale=it" align="right" />
 </div>  
