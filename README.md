@@ -4,7 +4,7 @@
   </a>
 </p>
 <div align='center'>
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="300" width="" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="300" width="100%" />
 </div>
 
 ## <div align="center">Ciao 👋, sono Edoardo Soloperto!</div>  
