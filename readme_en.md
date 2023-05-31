@@ -37,7 +37,7 @@ I’m a full-stack developer who has turned his passion into a full-time career,
 - 🔭  I’m currently working on [ClickUp VSCode extension](https://github.com/Edsol/clickup-vscode-extension)  
   
 
-- 🌱 I’m currently learning **Flutter** and **Svelte**  
+- 🌱 I’m currently learning **VueJs**, **Astro** e **Typescript**   
   
 
 - ❓ Ask me about anything related to LAMP stack and related technologies  
