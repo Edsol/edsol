@@ -37,10 +37,10 @@ I’m a full-stack developer who has turned his passion into a full-time career,
 - 🔭  I’m currently working on [vscode](https://code.visualstudio.com/) extension: [ClickUp VSCode extension](https://github.com/Edsol/clickup-vscode-extension)  
   
 
-- 🌱 I’m currently learning **VueJs**, **Astro** e **Typescript**   
+- 🌱 I am delving into **Typescript** and **microservices** architecture
   
 
-- :mag: I’m currently learning **Vue3**, **DrizzleORM**, **Bun** and many more
+- :mag: I'm also experimenting with **Vue3**, **DrizzleORM**, **Bun** and many more
   
 <br/>  
 
