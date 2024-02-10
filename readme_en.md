@@ -40,18 +40,6 @@ I’m a full-stack developer who has turned his passion into a full-time career,
 - 🌱 I’m currently learning **VueJs**, **Astro** e **Typescript**   
   
 
-- ❓ Ask me about anything related to LAMP stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-  
-
-## Rapidfire  
-- 🔭  Attualmente sto lavorando ad un'estensione per [vscode](https://code.visualstudio.com/): [ClickUp VSCode extension](https://github.com/Edsol/clickup-vscode-extension)  
-  
-
-- 🌱 I am deepening **Typescript** and **microservice** architectures
-
 - :mag: I’m currently learning **Vue3**, **DrizzleORM**, **Bun** and many more
   
 <br/>  
